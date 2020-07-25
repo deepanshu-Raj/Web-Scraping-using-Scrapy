@@ -1,4 +1,7 @@
 # Web-Scraping-using-Scrapy
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0786c0a3057a4cf3b590766a184f9189)](https://app.codacy.com/manual/berlin.7.11.99/Web-Scraping-using-Scrapy?utm_source=github.com&utm_medium=referral&utm_content=deepanshu-Raj/Web-Scraping-using-Scrapy&utm_campaign=Badge_Grade_Dashboard)
+
 web scraping using python's web scraping Package : SCRAPY
 
 In this project, i have used python's powerful web scraping package SCRAPY to scrape various websites.
